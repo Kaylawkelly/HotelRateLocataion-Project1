@@ -1,121 +1,57 @@
 Hotel,Rating,City,State,Country,Price
 Artezen Hotel,4.0,New York,NY,us,87.12
+Fairfield Inn & Suites by Marriott/World Trade Center Area,3.0,New York,NY,us,62.3
 World Center Hotel,4.0,New York,NY,us,79.2
-Fairfield Inn & Suites by Marriott/World Trade Center Area,3.0,New York,NY,us,69.3
-Holiday Inn Express New York City- Wall Street,3.0,New York,NY,us,74.25
+"Club Quarters Hotel, World Trade Center",4.0,New York,NY,us,79.2
 Aloft Manhattan Downtown - Financial District,3.0,New York,NY,us,68.4
 Night Hotel Broadway,2.5,New York,NY,us,101.09
-"Club Quarters Hotel, World Trade Center",4.0,New York,NY,us,79.2
-Walker Hotel Tribeca,3.5,New York,NY,us,84.7
-L.A Financial District Rentals,3.5,Los Angeles,CA,us,68.22
+"Gild Hall, A Thompson Hotel",4.5,New York,NY,us,96.75
+Walker Hotel Tribeca,3.5,New York,NY,us,83.33
 Musical district Downtown LA Rentals,3.5,Los Angeles,CA,us,75.78
-Omni Los Angeles Hotel at California Plaza,4.5,Los Angeles,CA,us,116.1
+L.A Financial District Rentals,3.5,Los Angeles,CA,us,70.38
+Omni Los Angeles Hotel at California Plaza,4.5,Los Angeles,CA,us,119.0
 Miyako Hotel Los Angeles,3.0,Los Angeles,CA,us,120.0
 The Los Angeles Athletic Club,3.5,Los Angeles,CA,us,136.8
-Kawada Hotel,3.0,Los Angeles,CA,us,85.75
-Millennium Biltmore Los Angeles,4.0,Los Angeles,CA,us,98.04
+Kawada Hotel,3.0,Los Angeles,CA,us,76.32
 Little Tokyo Hotel,2.0,Los Angeles,CA,us,64.26
+Millennium Biltmore Los Angeles,4.0,Los Angeles,CA,us,98.04
 Congress Plaza Hotel,3.5,Chicago,IL,us,76.23
 La Quinta Inn & Suites by Wyndham Chicago Downtown,3.0,Chicago,IL,us,75.65
-Travelodge by Wyndham Downtown Chicago,2.0,Chicago,IL,us,75.65
 Royal Sonesta Chicago Riverfront,4.0,Chicago,IL,us,82.69
-Best Western Grant Park Hotel,2.5,Chicago,IL,us,53.21
+Travelodge by Wyndham Downtown Chicago,2.0,Chicago,IL,us,84.15
+Silversmith Hotel Chicago Downtown,4.0,Chicago,IL,us,100.08
 Old Chicago Inn,2.0,Chicago,IL,us,67.5
 Virgin Hotels Chicago,4.5,Chicago,IL,us,120.95
-The Allegro Royal Sonesta Hotel,4.0,Chicago,IL,us,83.2
-The Whitehall Houston,4.0,Houston,TX,us,130.35
+Best Western Grant Park Hotel,2.5,Chicago,IL,us,54.23
 Club Quarters Hotel in Houston,4.0,Houston,TX,us,75.65
+The Whitehall Houston,4.0,Houston,TX,us,127.05
 The Lancaster Hotel,4.0,Houston,TX,us,141.35
 Hyatt Regency Houston,4.0,Houston,TX,us,135.15
+Best Western Plus Downtown Inn & Suites,3.0,Houston,TX,us,119.25
 Holiday Inn Houston Downtown,3.0,Houston,TX,us,93.13
 Le Meridien Houston Downtown,4.0,Houston,TX,us,120.3
 Residence Inn by Marriott Houston Downtown/Convention Center,3.0,Houston,TX,us,84.15
-Springhill Suites by Marriott Houston Dwntn/Convention Cntr,2.5,Houston,TX,us,75.66
 ROOST Rittenhouse,4.0,Philadelphia,PA,us,126.41
-The Windsor Suites,4.0,Philadelphia,PA,us,118.15
 Club Quarters Hotel in Philadelphia,4.0,Philadelphia,PA,us,80.19
+The Windsor Suites,4.0,Philadelphia,PA,us,126.65
 ROOST Midtown,4.0,Philadelphia,PA,us,141.37
-Warwick Hotel Rittenhouse Square,4.0,Philadelphia,PA,us,116.71
-Philadelphia Sunny Apartment Near Center City,2.0,Philadelphia,PA,us,99.05
-Loews Philadelphia Hotel,4.0,Philadelphia,PA,us,119.25
-Sonesta Philadelphia Rittenhouse Square,4.0,Philadelphia,PA,us,122.18
+Warwick Hotel Rittenhouse Square,4.0,Philadelphia,PA,us,118.15
+The Bike Lane - Society Hill Center City,3.5,Philadelphia,PA,us,78.73
+Loews Philadelphia Hotel,4.0,Philadelphia,PA,us,111.75
+Sonesta Philadelphia Rittenhouse Square,4.0,Philadelphia,PA,us,113.98
+Hyatt Regency Phoenix,4.0,Phoenix,AZ,us,152.15
 Kimpton Hotel Palomar Phoenix Cityscape,4.0,Phoenix,AZ,us,128.55
-Hyatt Regency Phoenix,4.0,Phoenix,AZ,us,169.15
-Hotel San Carlos - Downtown Convention Center,3.0,Phoenix,AZ,us,132.3
+Hotel San Carlos - Downtown Convention Center,3.0,Phoenix,AZ,us,125.28
 Hampton Inn & Suites Phoenix Downtown,3.0,Phoenix,AZ,us,95.2
-Best Western Downtown Phoenix,2.5,Phoenix,AZ,us,151.68
+Holiday Inn Express & Suites Phoenix Dwtn - State Capitol,2.5,Phoenix,AZ,us,107.1
 Extend A Suites Tempe,2.5,Tempe,AZ,us,62.99
-FOUNDRE Phoenix,4.0,Phoenix,AZ,us,206.1
+Best Western Downtown Phoenix,2.5,Phoenix,AZ,us,151.68
 Travelodge by Wyndham Phoenix Downtown,2.0,Phoenix,AZ,us,77.28
-Wyndham San Antonio River Walk,4.0,San Antonio,TX,us,101.91
-La Quinta Inn & Suites by Wyndham San Antonio Downtown,2.5,San Antonio,TX,us,104.5
 Best Western Premier Historic Travelers Hotel Alamo Riverwalk,3.0,San Antonio,TX,us,91.26
-Riverwalk Plaza,4.0,San Antonio,TX,us,147.6
-Hotel Valencia Riverwalk,4.0,San Antonio,TX,us,154.98
-Menger Hotel,3.5,San Antonio,TX,us,130.95
+Wyndham San Antonio River Walk,4.0,San Antonio,TX,us,109.81
+La Quinta Inn & Suites by Wyndham San Antonio Downtown,2.5,San Antonio,TX,us,109.25
 Days Inn by Wyndham San Antonio Alamo/Riverwalk,2.0,San Antonio,TX,us,53.2
-Omni La Mansion del Rio,4.0,San Antonio,TX,us,192.6
-Westgate Hotel,4.5,San Diego,CA,us,122.99
-Baymont by Wyndham San Diego Downtown,2.5,San Diego,CA,us,67.15
-Wyndham San Diego Bayside,4.0,San Diego,CA,us,90.44
-Gaslamp Plaza Suites,3.5,San Diego,CA,us,99.0
-Days Inn by Wyndham San Diego/Downtown/Convention Center,2.0,San Diego,CA,us,73.95
-Old Town Inn,2.5,San Diego,CA,us,83.9
-The Sofia Hotel,3.5,San Diego,CA,us,98.55
-"Hotel Republic San Diego, Autograph Collection",4.0,San Diego,CA,us,129.0
-La Quinta Inn & Suites by Wyndham Dallas Downtown,3.0,Dallas,TX,us,76.24
-Magnolia Hotel Dallas Downtown,4.0,Dallas,TX,us,108.36
-Lorenzo Hotel,4.0,Dallas,TX,us,159.2
-Omni Dallas Hotel,4.5,Dallas,TX,us,170.1
-The Statler Dallas Curio Collection By Hilton,4.0,Dallas,TX,us,142.12
-Cozysuites Lovely Sky Pool in Dallas 2BR 2BA,4.0,Dallas,TX,us,146.0
-Fairmont Dallas,4.5,Dallas,TX,us,94.37
-Canvas Hotel Dallas,4.0,Dallas,TX,us,102.25
-@ Marbella Lane Triplex San Jose,3.5,San Jose,CA,us,90.09
-Arena Hotel,3.0,San Jose,CA,us,76.0
-Wyndham Garden San Jose Airport,3.0,San Jose,CA,us,95.0
-Hotel Clariana,3.5,San Jose,CA,us,111.2
-"Country Inn & Suites by Radisson, San Jose International Airport, CA",3.0,San Jose,CA,us,73.85
-Hyatt Place San Jose/Downtown,3.5,San Jose,CA,us,92.65
-@ Marbella Lane Duplex San Jose ,3.5,San Jose,CA,us,153.25
-Sunny Studio Near Downtown San Jose,3.5,San Jose,CA,us,101.0
-Fairmont Austin,4.0,Austin,TX,us,104.0
-The Stephen F Austin Royal Sonesta Hotel,4.0,Austin,TX,us,116.1
-Omni Austin Hotel,4.0,Austin,TX,us,156.6
-La Quinta Inn by Wyndham Austin Capitol / Downtown,2.5,Austin,TX,us,55.08
-The LINE Austin,4.0,Austin,TX,us,178.74
-Mint House SoCo Austin,3.5,Austin,TX,us,244.38
-Holiday Inn Express & Suites Austin Downtown - University,2.5,Austin,TX,us,90.85
-Extended Stay America Austin - Downtown - Town Lake,2.5,Austin,TX,us,71.99
-Omni Jacksonville Hotel,4.0,Jacksonville,FL,us,138.6
-Extended Stay America - Jacksonville -Riverwalk -Conv Center,2.5,Jacksonville,FL,us,89.99
-DoubleTree by Hilton Hotel Jacksonville Riverfront,3.5,Jacksonville,FL,us,106.33
-Magnuson Hotel Jacksonville Downtown,2.0,Jacksonville,FL,us,55.2
-Southbank Hotel Jacksonville Riverwalk,3.5,Jacksonville,FL,us,118.15
-Casa Paradiso,4.0,Jacksonville,FL,us,164.0
-Hilton Garden Inn Jacksonville Downtown Southbank,3.0,Jacksonville,FL,us,118.15
-Riverdale Inn,3.0,Jacksonville,FL,us,185.0
-Mithila Hotel,2.0,San Francisco,CA,us,44.49
-Embassy Hotel,2.5,San Francisco,CA,us,78.79
-The Phoenix Hotel,2.5,San Francisco,CA,us,134.1
-Hayes Valley Inn,3.0,San Francisco,CA,us,71.5
-SOMA Park Inn – Civic Center,2.0,San Francisco,CA,us,78.75
-San Francisco Inn,2.0,San Francisco,CA,us,76.5
-1906 Mission,2.5,San Francisco,CA,us,91.23
-City Center Inn & Suites,2.0,San Francisco,CA,us,87.2
-Best Western Plus Indianapolis Downtown,2.5,Indianapolis,IN,us,79.91
-Omni Severin Hotel,4.0,Indianapolis,IN,us,184.73
-Hyatt House Indianapolis Downtown,3.0,Indianapolis,IN,us,143.65
-The Alexander,4.0,Indianapolis,IN,us,239.0
-Hyatt Place Indianapolis Downtown,3.0,Indianapolis,IN,us,135.2
-"Motel 6 Indianapolis, IN",2.5,Indianapolis,IN,us,49.99
-Courtyard by Marriott Indianapolis Downtown,3.0,Indianapolis,IN,us,138.0
-SpringHill Suites by Marriott Indianapolis Downtown,3.0,Indianapolis,IN,us,138.0
-Sonesta Columbus,4.0,Columbus,OH,us,90.47
-Red Roof Inn PLUS+ Columbus Downtown - Convention Center,2.5,Columbus,OH,us,59.49
-50 Lincoln Short North Bed and Breakfast,3.5,Columbus,OH,us,102.38
-DoubleTree Suites by Hilton Columbus Downtown,3.0,Columbus,OH,us,78.75
-Graduate Columbus,4.0,Columbus,OH,us,95.2
-Drury Inn & Suites Columbus Convention Center,3.0,Columbus,OH,us,107.99
-Holiday Inn Columbus Downtown Capitol Square,3.0,Columbus,OH,us,70.31
-Holiday Inn Express Columbus Downtown,2.5,Columbus,OH,us,66.88
+Hotel Valencia Riverwalk,4.0,San Antonio,TX,us,154.98
+Riverwalk Plaza,4.0,San Antonio,TX,us,158.85
+Red Roof Inn PLUS+ San Antonio Downtown - Riverwalk,2.5,San Antonio,TX,us,62.25
+Americas Best Value Inn Riverwalk Downtown Market Square,3.0,San Antonio,TX,us,40.61
