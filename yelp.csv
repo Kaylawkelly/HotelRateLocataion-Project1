@@ -1,0 +1,98 @@
+location,name,rating,review_count
+New York City,Brooklyn Bridge,4.5,1398
+Los Angeles,Urban Light at LACMA,4.5,522
+Chicago,Garfield Park Conservatory,5.0,632
+Houston,Hermann Park Conservancy,4.5,209
+Philadelphia,Eastern State Penitentiary Historic Site,4.5,792
+Phoenix,Western Destinations,5.0,50
+San Antonio,Morgan's Wonderland,5.0,96
+San Diego,Balboa Park,5.0,2124
+Dallas,Katy Trail,4.5,215
+San Jose,Mount Hermon Adventures,5.0,524
+Austin,Lake Travis Zipline Adventures,5.0,590
+Jacksonville,Catty Shack Ranch Wildlife Sanctuary,5.0,122
+San Francisco,Tom and Jerry's House,5.0,87
+Indianapolis,White River State Park,5.0,75
+Columbus,Columbus Zoo and Aquarium,4.5,450
+Fort Worth,Fort Worth Water Gardens,4.5,221
+Charlotte,Funny Bus,4.5,152
+Seattle,Chihuly Garden and Glass,4.5,2398
+Denver,Chautauqua Park,5.0,264
+El Paso,Plaza Theatre,4.5,33
+Detroit,Detroit Institute of Arts,4.5,422
+Washington,Leavenworth Reindeer Farm,5.0,64
+Boston,Freedom Trail Foundation,4.5,769
+Memphis,National Civil Rights Museum,4.5,648
+Nashville,NashTrash Tours,4.5,155
+Portland,Forest Park,5.0,221
+Oklahoma City,Oklahoma City National Memorial & Museum,5.0,345
+Las Vegas,Sin City Smash,5.0,115
+Baltimore,The Walters Art Museum,4.5,206
+Louisville,Angel's Envy,4.5,472
+Milwaukee,Milwaukee Art Museum,4.5,344
+Albuquerque,Rainbow Ryders,4.5,155
+Tucson,Arizona-Sonora Desert Museum,4.5,414
+Fresno,Fresno Chaffee Zoo,4.5,421
+Sacramento,California State Railroad Museum,4.5,532
+Kansas City,The Nelson-Atkins Museum of Art,5.0,459
+Long Beach,Gondola Getaway,4.5,501
+Mesa,Riparian Preserve at Water Ranch,4.5,172
+Atlanta,Unexpected Atlanta Walking Tours,5.0,86
+Virginia Beach,The Adventure Park At Virginia Aquarium,4.5,127
+Raleigh,Sarah P Duke Gardens,5.0,254
+Omaha,Omaha's Henry Doorly Zoo and Aquarium,4.5,540
+Miami,Everglades Nature Tours,5.0,124
+Oakland,Redwood Valley Railway,5.0,179
+Minneapolis,Lake Harriet,5.0,83
+Tulsa,Gathering Place,4.5,169
+Wichita,Keeper Of The Plains Plaza,5.0,26
+New Orleans,New Orleans Kayak Swamp Tours,5.0,197
+Arlington,Cedar Ridge Preserve,4.5,203
+Cleveland,The Cleveland Museum of Art,5.0,437
+Bakersfield,Bakersfield River Run,4.5,74
+Tampa,The Tampa Riverwalk,4.5,189
+Aurora,Dreamtime Creations,3.0,9
+Honolulu,WWII Red Light District Tour,5.0,68
+Anaheim,Lights on Miracle Hill,5.0,50
+Santa Ana,Susan Grau,5.0,247
+Corpus Christi,USS Lexington Museum,4.5,247
+Riverside,National Museum of the United States Air Force,5.0,325
+St. Louis,Forest Park,5.0,292
+Lexington,Keeneland,4.5,139
+Pittsburgh,Bicycle Heaven,5.0,189
+Saint Paul,Arkadia Retrocade,5.0,46
+Anchorage,Anchorage Museum,4.5,179
+Cincinnati,Smale Riverfront Park,5.0,105
+Henderson,Sin City Smash,5.0,115
+Greensboro,Greensboro Science Center,4.5,127
+Plano,Vitruvian Park,4.5,72
+Newark,Scott's Pizza Tours,5.0,319
+Toledo,Toledo Museum of Art,4.5,117
+Lincoln,Comfort Inn & Suites,3.0,5
+Orlando,Diagon Alley,4.5,241
+Chula Vista,Balboa Park,5.0,2124
+Jersey City,The High Line,4.5,2354
+Chandler,Western Destinations,5.0,50
+Fort Wayne,Auburn Cord Duesenberg Automobile Museum,5.0,36
+Buffalo,Cave Of The Winds,4.5,197
+Durham,Sarah P Duke Gardens,5.0,254
+St. Petersburg,Gators Parasail,5.0,63
+Irvine,Susan Grau,5.0,247
+Laredo,La Posada Hotel,3.5,43
+Lubbock,Hilton Garden Inn Lubbock,4.5,37
+Madison,Wisconsin State Capitol,4.5,101
+Gilbert,Veterans Oasis Park,5.0,102
+Norfolk,Chrysler Museum of Art,5.0,158
+Reno,Tahoe Vista Treetop Adventure Park,5.0,150
+Winston-Salem,Fiddlin' Fish Brewing,4.5,79
+Glendale,Arlington Garden in Pasadena,4.5,249
+Hialeah,Wynwood Walls,4.5,1027
+Garland,Dallas Arboretum,4.5,822
+Scottsdale,Western Destinations,5.0,50
+Irving,Vitruvian Park,4.5,72
+Chesapeake,Chrysler Museum of Art,5.0,158
+North Las Vegas,Lip Smacking Foodie Tours,5.0,389
+Fremont,Widmer World,5.0,52
+Baton Rouge,Mike the Tiger Habitat,5.0,37
+Richmond,Maymont,5.0,291
+San Bernardino,Palm Springs Aerial Tramway,4.5,1310

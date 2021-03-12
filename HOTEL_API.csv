@@ -7,14 +7,14 @@ Aloft Manhattan Downtown - Financial District,3.0,New York,NY,us,68.4
 Night Hotel Broadway,2.5,New York,NY,us,101.09
 "Club Quarters Hotel, World Trade Center",4.0,New York,NY,us,79.2
 Walker Hotel Tribeca,3.5,New York,NY,us,84.7
-L.A Financial District Rentals,3.5,Los Angeles,CA,us,68.22
-Musical district Downtown LA Rentals,3.5,Los Angeles,CA,us,75.78
-Omni Los Angeles Hotel at California Plaza,4.5,Los Angeles,CA,us,116.1
+L.A Financial District Rentals,3.5,Los Angeles,CA,us,70.38
+Musical district Downtown LA Rentals,3.5,Los Angeles,CA,us,74.34
+DoubleTree by Hilton Hotel Los Angeles Downtown,3.5,Los Angeles,CA,us,112.24
 Miyako Hotel Los Angeles,3.0,Los Angeles,CA,us,120.0
-The Los Angeles Athletic Club,3.5,Los Angeles,CA,us,136.8
 Kawada Hotel,3.0,Los Angeles,CA,us,85.75
-Millennium Biltmore Los Angeles,4.0,Los Angeles,CA,us,98.04
+Omni Los Angeles Hotel at California Plaza,4.5,Los Angeles,CA,us,119.0
 Little Tokyo Hotel,2.0,Los Angeles,CA,us,64.26
+Millennium Biltmore Los Angeles,4.0,Los Angeles,CA,us,98.04
 Congress Plaza Hotel,3.5,Chicago,IL,us,76.23
 La Quinta Inn & Suites by Wyndham Chicago Downtown,3.0,Chicago,IL,us,75.65
 Travelodge by Wyndham Downtown Chicago,2.0,Chicago,IL,us,75.65
@@ -27,16 +27,16 @@ The Whitehall Houston,4.0,Houston,TX,us,130.35
 Club Quarters Hotel in Houston,4.0,Houston,TX,us,75.65
 The Lancaster Hotel,4.0,Houston,TX,us,141.35
 Hyatt Regency Houston,4.0,Houston,TX,us,135.15
+Best Western Plus Downtown Inn & Suites,3.0,Houston,TX,us,119.25
 Holiday Inn Houston Downtown,3.0,Houston,TX,us,93.13
 Le Meridien Houston Downtown,4.0,Houston,TX,us,120.3
 Residence Inn by Marriott Houston Downtown/Convention Center,3.0,Houston,TX,us,84.15
-Springhill Suites by Marriott Houston Dwntn/Convention Cntr,2.5,Houston,TX,us,75.66
 ROOST Rittenhouse,4.0,Philadelphia,PA,us,126.41
 The Windsor Suites,4.0,Philadelphia,PA,us,118.15
 Club Quarters Hotel in Philadelphia,4.0,Philadelphia,PA,us,80.19
 ROOST Midtown,4.0,Philadelphia,PA,us,141.37
 Warwick Hotel Rittenhouse Square,4.0,Philadelphia,PA,us,116.71
-Philadelphia Sunny Apartment Near Center City,2.0,Philadelphia,PA,us,99.05
+The Lighthouse Walk to Independence Hall Sun-drenched Apt,3.5,Philadelphia,PA,us,83.68
 Loews Philadelphia Hotel,4.0,Philadelphia,PA,us,119.25
 Sonesta Philadelphia Rittenhouse Square,4.0,Philadelphia,PA,us,122.18
 Kimpton Hotel Palomar Phoenix Cityscape,4.0,Phoenix,AZ,us,128.55
@@ -51,26 +51,26 @@ Wyndham San Antonio River Walk,4.0,San Antonio,TX,us,101.91
 La Quinta Inn & Suites by Wyndham San Antonio Downtown,2.5,San Antonio,TX,us,104.5
 Best Western Premier Historic Travelers Hotel Alamo Riverwalk,3.0,San Antonio,TX,us,91.26
 Riverwalk Plaza,4.0,San Antonio,TX,us,147.6
-Hotel Valencia Riverwalk,4.0,San Antonio,TX,us,154.98
 Menger Hotel,3.5,San Antonio,TX,us,130.95
 Days Inn by Wyndham San Antonio Alamo/Riverwalk,2.0,San Antonio,TX,us,53.2
 Omni La Mansion del Rio,4.0,San Antonio,TX,us,192.6
-Westgate Hotel,4.5,San Diego,CA,us,122.99
+Hotel Contessa - Luxury Suites on the Riverwalk,4.0,San Antonio,TX,us,195.77
+Westgate Hotel,4.5,San Diego,CA,us,123.01
 Baymont by Wyndham San Diego Downtown,2.5,San Diego,CA,us,67.15
 Wyndham San Diego Bayside,4.0,San Diego,CA,us,90.44
 Gaslamp Plaza Suites,3.5,San Diego,CA,us,99.0
 Days Inn by Wyndham San Diego/Downtown/Convention Center,2.0,San Diego,CA,us,73.95
 Old Town Inn,2.5,San Diego,CA,us,83.9
-The Sofia Hotel,3.5,San Diego,CA,us,98.55
+The Sofia Hotel,3.5,San Diego,CA,us,98.05
 "Hotel Republic San Diego, Autograph Collection",4.0,San Diego,CA,us,129.0
 La Quinta Inn & Suites by Wyndham Dallas Downtown,3.0,Dallas,TX,us,76.24
 Magnolia Hotel Dallas Downtown,4.0,Dallas,TX,us,108.36
 Lorenzo Hotel,4.0,Dallas,TX,us,159.2
+Hyatt Regency Dallas,4.0,Dallas,TX,us,118.15
 Omni Dallas Hotel,4.5,Dallas,TX,us,170.1
-The Statler Dallas Curio Collection By Hilton,4.0,Dallas,TX,us,142.12
 Cozysuites Lovely Sky Pool in Dallas 2BR 2BA,4.0,Dallas,TX,us,146.0
+The Statler Dallas Curio Collection By Hilton,4.0,Dallas,TX,us,142.12
 Fairmont Dallas,4.5,Dallas,TX,us,94.37
-Canvas Hotel Dallas,4.0,Dallas,TX,us,102.25
 @ Marbella Lane Triplex San Jose,3.5,San Jose,CA,us,90.09
 Arena Hotel,3.0,San Jose,CA,us,76.0
 Wyndham Garden San Jose Airport,3.0,San Jose,CA,us,95.0
@@ -112,10 +112,218 @@ Hyatt Place Indianapolis Downtown,3.0,Indianapolis,IN,us,135.2
 Courtyard by Marriott Indianapolis Downtown,3.0,Indianapolis,IN,us,138.0
 SpringHill Suites by Marriott Indianapolis Downtown,3.0,Indianapolis,IN,us,138.0
 Sonesta Columbus,4.0,Columbus,OH,us,90.47
-Red Roof Inn PLUS+ Columbus Downtown - Convention Center,2.5,Columbus,OH,us,59.49
 50 Lincoln Short North Bed and Breakfast,3.5,Columbus,OH,us,102.38
-DoubleTree Suites by Hilton Columbus Downtown,3.0,Columbus,OH,us,78.75
+Red Roof Inn PLUS+ Columbus Downtown - Convention Center,2.5,Columbus,OH,us,59.49
 Graduate Columbus,4.0,Columbus,OH,us,95.2
-Drury Inn & Suites Columbus Convention Center,3.0,Columbus,OH,us,107.99
-Holiday Inn Columbus Downtown Capitol Square,3.0,Columbus,OH,us,70.31
+DoubleTree Suites by Hilton Columbus Downtown,3.0,Columbus,OH,us,78.75
+German Village Inn Columbus,2.5,Columbus,OH,us,76.5
 Holiday Inn Express Columbus Downtown,2.5,Columbus,OH,us,66.88
+Holiday Inn Columbus Downtown Capitol Square,3.0,Columbus,OH,us,70.31
+Omni Fort Worth Hotel,4.5,Fort Worth,TX,us,129.0
+Holiday Inn Express Hotel & Suites Fort Worth Downtown,2.5,Fort Worth,TX,us,67.34
+"Country Inn & Suites by Radisson, Fort Worth, TX",2.5,Fort Worth,TX,us,63.2
+Hilton Downtown Fort Worth,4.0,Fort Worth,TX,us,98.53
+"Motel 6 Fort Worth, TX - Convention Center",2.0,Fort Worth,TX,us,46.99
+Southside Condos by Barsala,0.0,Fort Worth,TX,us,79.68
+Embassy Suites by Hilton Fort Worth Downtown,3.5,Fort Worth,TX,us,134.1
+The Worthington Renaissance Fort Worth Hotel,4.0,Fort Worth,TX,us,137.01
+The Ivey's Hotel,4.5,Charlotte,NC,us,209.3
+Omni Charlotte Hotel,4.0,Charlotte,NC,us,173.27
+Le Meridien Charlotte,4.0,Charlotte,NC,us,120.29
+The Dunhill Hotel,3.5,Charlotte,NC,us,129.6
+AC by Marriott Charlotte,3.5,Charlotte,NC,us,116.1
+DoubleTree by Hilton Hotel Charlotte,3.5,Charlotte,NC,us,90.0
+1 BR and 2 BR Uptown Apts with City Views by Frontdesk,3.5,Charlotte,NC,us,125.25
+HYATT house Charlotte/Center City,3.0,Charlotte,NC,us,92.65
+The Paramount Hotel,3.5,Seattle,WA,us,83.0
+Fairmont Olympic Hotel,5.0,Seattle,WA,us,164.25
+Best Western Plus Pioneer Square Hotel Downtown,2.5,Seattle,WA,us,78.84
+The State Hotel,4.0,Seattle,WA,us,158.01
+The Inn at Virginia Mason,2.5,Seattle,WA,us,89.0
+Serene Eastlake Patio & Gourmet Kitchen 1 Bedroom Townhouse,3.5,Seattle,WA,us,185.0
+Loews Hotel 1000 Seattle,4.5,Seattle,WA,us,215.0
+"Motif Seattle, a Destination by Hyatt Hotel",4.0,Seattle,WA,us,134.25
+Sonesta Denver Downtown,4.0,Denver,CO,us,84.84
+Warwick Denver,4.0,Denver,CO,us,81.0
+"The Art Hotel Denver, Curio Collection by Hilton",4.5,Denver,CO,us,104.86
+Staybridge Suites Denver Downtown,3.0,Denver,CO,us,74.0
+Hampton Inn & Suites Denver Downtown-Convention Center,3.0,Denver,CO,us,83.2
+Fresh Decor Walk to Sloan's Lake!,3.5,Denver,CO,us,125.67
+Kimpton Hotel Monaco Denver,4.0,Denver,CO,us,102.09
+Hotel Teatro,4.5,Denver,CO,us,109.81
+Stanton House,4.0,El Paso,TX,us,185.85
+HI Express El Paso Downtown,2.5,El Paso,TX,us,59.69
+The Plaza Hotel Pioneer Park,4.0,El Paso,TX,us,194.65
+The Gardner Hotel El Paso,2.5,El Paso,TX,us,42.0
+Aloft El Paso Downtown,3.5,El Paso,TX,us,99.2
+Hotel Flamingo Juarez,3.0,Ciudad Juarez,CHIH,mx,70.72
+Hotel Santa Fe ,3.0,Ciudad Juarez,CHIH,mx,37.48
+DoubleTree by Hilton El Paso Downtown,3.5,El Paso,TX,us,116.1
+Mint House Downtown Detroit,4.0,Detroit,MI,us,123.25
+Trumbull and Porter Hotel,3.5,Detroit,MI,us,102.19
+MotorCity Casino Hotel,4.5,Detroit,MI,us,135.32
+Motor City Suites by Barsala,4.0,Detroit,MI,us,100.48
+Washington Blvd Condos by Barsala,3.5,Detroit,MI,us,106.56
+Shinola Hotel,4.0,Detroit,MI,us,235.0
+The Siren Hotel,3.5,Detroit,MI,us,143.2
+Atheneum Suite Hotel,4.0,Detroit,MI,us,217.26
+Viceroy Washington DC,4.5,Washington,DC,us,131.45
+The St. Gregory Hotel,4.0,Washington,DC,us,118.5
+Oakwood Suites & Studios Dupont Circle Washington DC,4.0,Washington,DC,us,132.0
+The Darcy Hotel,4.5,Washington,DC,us,103.2
+Eaton DC,4.5,Washington,DC,us,126.64
+DC The Wharf Waterfront View Rentals,3.5,Washington,DC,us,84.2
+Hotel Harrington ,3.0,Washington,DC,us,65.52
+Club Quarters Hotel in Washington DC,4.0,Washington,DC,us,88.11
+Hyatt Centric Faneuil Hall Boston,4.0,Boston,MA,us,97.92
+Club Quarters Hotel in Boston,4.0,Boston,MA,us,88.11
+Harborside Inn Of Boston,3.0,Boston,MA,us,107.1
+citizenM Boston North Station,4.0,Boston,MA,us,101.5
+Wyndham Boston Beacon Hill,3.5,Boston,MA,us,96.75
+Brookside House,2.5,Quincy,MA,us,75.0
+Kimpton Nine Zero Hotel,4.5,Boston,MA,us,110.86
+Global Luxury Suites Downtown Boston,4.0,Boston,MA,us,97.3
+Hotel Indigo Memphis Downtown,3.5,Memphis,TN,us,89.37
+Sheraton Memphis Downtown Hotel,4.0,Memphis,TN,us,83.88
+La Quinta Inn & Suites by Wyndham Memphis Downtown,2.5,Memphis,TN,us,125.0
+"Hotel Napoleon, Ascend Hotel Collection",4.0,Memphis,TN,us,116.54
+The River City Flats,5.0,Memphis,TN,us,52.0
+ARRIVE Memphis,4.0,Memphis,TN,us,114.0
+Canopy by Hilton Memphis Downtown,4.0,Memphis,TN,us,133.89
+Kasa Memphis Downtown Apartments,4.0,Memphis,TN,us,106.26
+Best Western Plus Music Row,2.5,Nashville,TN,us,69.11
+Mint House at the Reserve,4.0,Nashville,TN,us,136.0
+Drury Plaza Hotel Nashville Downtown,3.0,Nashville,TN,us,103.49
+The Hayes Street Hotel Nashville,3.5,Nashville,TN,us,78.59
+"Holston House Nashville, in The Unbound Collection by Hyatt",4.0,Nashville,TN,us,139.32
+Music City Hostel,2.0,Nashville,TN,us,84.37
+Bobby Hotel,4.0,Nashville,TN,us,202.09
+21c Museum Hotel Nashville - MGallery,4.0,Nashville,TN,us,129.5
+Hyatt House Portland/Downtown,3.0,Portland,OR,us,109.65
+Hotel Eastlund,4.0,Portland,OR,us,107.1
+"Staypineapple, Hotel Rose, Downtown Portland",3.5,Portland,OR,us,104.25
+The Paramount Hotel,3.5,Portland,OR,us,98.1
+University Place Hotel & Conference Center,2.5,Portland,OR,us,86.06
+Mark Spencer Hotel,3.0,Portland,OR,us,104.25
+The Hoxton Portland,4.0,Portland,OR,us,94.16
+Royal Sonesta Portland,4.5,Portland,OR,us,123.05
+Wyndham Grand Oklahoma City Downtown,3.5,Oklahoma City,OK,us,80.85
+21c Museum Hotel Oklahoma City - MGallery,4.0,Oklahoma City,OK,us,95.0
+Colcord Hotel,4.5,Oklahoma City,OK,us,142.2
+Omni Oklahoma City Hotel,4.0,Oklahoma City,OK,us,179.1
+"Country Inn & Suites by Radisson, Oklahoma City-Bricktown, OK",2.0,Oklahoma City,OK,us,63.2
+Sheraton Oklahoma City Downtown Hotel,4.0,Oklahoma City,OK,us,101.15
+Hyatt Place Oklahoma City / Bricktown,3.0,Oklahoma City,OK,us,96.9
+Holiday Inn Express & Suites Oklahoma City Dwtn - Bricktown,2.5,Oklahoma City,OK,us,77.84
+Downtown Grand Las Vegas,3.5,Las Vegas,NV,us,55.13
+Golden Nugget Las Vegas Hotel & Casino,4.0,Las Vegas,NV,us,99.58
+El Cortez Hotel and Casino,3.0,Las Vegas,NV,us,41.85
+Oasis at Gold Spike,3.5,Las Vegas,NV,us,26.0
+California Hotel and Casino,3.5,Las Vegas,NV,us,83.02
+Downtowner Boutique Hotel,3.0,Las Vegas,NV,us,22.4
+Plaza Hotel and Casino - Las Vegas,4.0,Las Vegas,NV,us,41.6
+Hotel Apache,3.5,Las Vegas,NV,us,50.4
+Hotel RL Baltimore Inner Harbor,3.5,Baltimore,MD,us,85.0
+Radisson Hotel Baltimore Downtown - Inner Harbor,3.5,Baltimore,MD,us,69.42
+Royal Sonesta Harbor Court Baltimore,4.5,Baltimore,MD,us,114.88
+"Tru By Hilton Baltimore Harbor East, MD",2.5,Baltimore,MD,us,73.92
+Kimpton Hotel Monaco Baltimore Inner Harbor,4.5,Baltimore,MD,us,67.59
+"Hotel Revival Baltimore, part of JdV by Hyatt",4.0,Baltimore,MD,us,104.25
+Hyatt Place Baltimore Inner Harbor,3.0,Baltimore,MD,us,87.2
+Baltimore Plaza Inner Harbor,2.0,Baltimore,MD,us,66.36
+Omni Louisville Hotel,4.5,Louisville,KY,us,156.6
+Mint House Downtown Louisville,4.0,Louisville,KY,us,99.88
+21c Museum Hotel Louisville - MGallery,4.5,Louisville,KY,us,89.49
+"Homewood Suites by Hilton Louisville Downtown, KY",3.0,Louisville,KY,us,75.65
+Bright Sunny Cozysuites,3.5,Louisville,KY,us,75.25
+Best Western Plus Louisville North,2.5,Clarksville,IN,us,65.44
+Cozysuites Apartment on 3rd Street,3.5,Louisville,KY,us,75.25
+Cozysuites Modern Downtown Apartment,3.5,Louisville,KY,us,75.5
+Holiday Inn Express Milwaukee Downtown,2.5,Milwaukee,WI,us,58.66
+"Tru By Hilton Milwaukee Downtown, WI",2.5,Milwaukee,WI,us,68.95
+The Pfister Hotel,4.5,Milwaukee,WI,us,180.9
+The Iron Horse Hotel,4.0,Milwaukee,WI,us,109.36
+Drury Plaza Hotel Milwaukee Downtown,3.0,Milwaukee,WI,us,85.49
+Milwaukee River Apartments by Barsala,4.0,Milwaukee,WI,us,67.2
+Lake Michigan Condos by Barsala,4.0,Milwaukee,WI,us,100.8
+N. Water Street Apt with City Views by Frontdesk,3.5,Milwaukee,WI,us,68.0
+Hotel Parq Central,3.5,Albuquerque,NM,us,148.0
+Howard Johnson by Wyndham Albuquerque Midtown,2.5,Albuquerque,NM,us,53.6
+Days Inn by Wyndham Albuquerque Downtown,2.0,Albuquerque,NM,us,48.0
+Hotel Albuquerque at Old Town,3.5,Albuquerque,NM,us,104.0
+"Hotel Andaluz Albuquerque, Curio Collection by Hilton",4.0,Albuquerque,NM,us,125.1
+Best Western Plus Rio Grande Inn,3.0,Albuquerque,NM,us,93.99
+Baymont by Wyndham Albuquerque Airport,2.5,Albuquerque,NM,us,76.5
+Ramada Plaza by Wyndham Albuquerque Midtown,3.5,Albuquerque,NM,us,61.6
+Red Lion Inn & Suites Tucson Downtown,2.5,Tucson,AZ,us,61.6
+Best Western Royal Sun Inn & Suites,2.5,Tucson,AZ,us,91.95
+"Country Inn & Suites by Radisson, Tucson City Center, AZ",2.5,Tucson,AZ,us,84.0
+Ramada by Wyndham Tucson,2.5,Tucson,AZ,us,88.28
+University Inn,2.0,Tucson,AZ,us,67.49
+Home2 Suites by Hilton Tucson Airport,2.5,Tucson,AZ,us,109.65
+Graduate Tucson,3.5,Tucson,AZ,us,131.82
+Red Roof Inn Tucson Downtown – University,2.5,Tucson,AZ,us,50.14
+La Quinta Inn by Wyndham Fresno Yosemite,2.5,Fresno,CA,us,61.2
+Radisson Hotel Fresno Conference Center,3.0,Fresno,CA,us,70.79
+Dream Inn,2.0,Fresno,CA,us,69.0
+Travelodge by Wyndham Fresno Convention Center Area,2.0,Fresno,CA,us,96.0
+Days Inn by Wyndham Fresno South,2.0,Fresno,CA,us,69.0
+Best Western Village Inn,2.5,Fresno,CA,us,75.99
+"Motel 6 Fresno, CA - Belmont Ave",2.0,Fresno,CA,us,64.99
+Vagabond Inn Fresno,2.5,Fresno,CA,us,66.49
+Best Western Plus Sutter House,3.0,Sacramento,CA,us,117.91
+SureStay Plus Hotel by Best Western Sacramento North,2.5,Sacramento,CA,us,67.99
+SureStay Plus Hotel by Best Western Sacramento Cal Expo,2.5,Sacramento,CA,us,58.65
+Roy Inn & Suites – Sacramento Midtown,2.5,Sacramento,CA,us,57.6
+Delta King Hotel,3.0,Sacramento,CA,us,119.2
+Hyatt Regency Sacramento,4.0,Sacramento,CA,us,169.0
+"The Fort Sutter Sacramento, Tapestry Collection by Hilton",3.0,Sacramento,CA,us,130.9
+Comfort Suites Downtown Sacramento,2.5,Sacramento,CA,us,81.59
+Crossroads Hotel,4.0,Kansas City,MO,us,145.35
+21c Museum Hotel Kansas City - MGallery,4.0,Kansas City,MO,us,110.5
+Hotel Indigo Kansas City Downtown,3.5,Kansas City,MO,us,93.54
+ Luxe DT Apts with Free Parking by Zencity ,3.5,Kansas City,MO,us,83.56
+Loews Kansas City Hotel,4.0,Kansas City,MO,us,123.25
+THE GRAND - Modern DT Apts with Free Parking by Zencity,3.5,Kansas City,MO,us,96.13
+Swofford - Spacious DT Apts with Free Parking by Zencity,0.0,Kansas City,MO,us,78.8
+La Quinta Inn & Suites by Wyndham Kansas City Beacon Hill,2.5,Kansas City,MO,us,99.0
+Best Western Plus Hotel At The Convention Center,3.0,Long Beach,CA,us,102.6
+Greenleaf Hotel,2.0,Long Beach,CA,us,80.99
+Dockside Boat & Bed Long Beach,3.5,Long Beach,CA,us,248.4
+Travelodge by Wyndham Long Beach Convention Center,2.0,Long Beach,CA,us,99.0
+Hotel Royal,2.5,Long Beach,CA,us,66.88
+Fairfield Inn & Suites by Marriott Anaheim Los Alamitos,2.5,Los Alamitos,CA,us,109.0
+City Center Motel,2.0,Long Beach,CA,us,75.0
+Inn Of Long Beach,2.5,Long Beach,CA,us,99.0
+Delta Hotels by Marriott Phoenix Mesa,3.5,Mesa,AZ,us,104.5
+Baymont by Wyndham Mesa Near Downtown,2.5,Mesa,AZ,us,81.0
+American Inn and Suites,2.5,Mesa,AZ,us,85.0
+La Quinta Inn & Suites by Wyndham Phoenix Mesa West,2.5,Mesa,AZ,us,108.0
+Days Hotel by Wyndham Mesa Near Phoenix,2.5,Mesa,AZ,us,77.18
+Extend A Suites Tempe,2.5,Tempe,AZ,us,62.99
+American Executive Inn,2.0,Mesa,AZ,us,53.99
+DoubleTree by Hilton Phoenix Mesa,3.5,Mesa,AZ,us,126.65
+Reverb by Hard Rock Atlanta Downtown,3.5,Atlanta,GA,us,103.55
+The American Hotel Atlanta Downtown - a DoubleTree by Hilton,3.5,Atlanta,GA,us,86.53
+Hyatt House Atlanta Downtown,3.5,Atlanta,GA,us,101.15
+"The Candler Hotel Atlanta, Curio Collection by Hilton",4.0,Atlanta,GA,us,125.3
+Sheraton Atlanta Hotel,4.0,Atlanta,GA,us,83.75
+Barclay Hotel Atlanta Downtown,2.5,Atlanta,GA,us,67.64
+Omni Atlanta Hotel at CNN Center,4.0,Atlanta,GA,us,152.1
+Crowne Plaza Atlanta - Midtown,3.5,Atlanta,GA,us,79.22
+Oceanfront Inn,2.5,Virginia Beach,VA,us,79.0
+The Ocean Reef Suites at Virginia Beach,2.5,Virginia Beach,VA,us,53.1
+Sea View Hotel,2.0,Virginia Beach,VA,us,52.78
+Ocean Holiday,2.5,Virginia Beach,VA,us,62.1
+Ramada Plaza by Wyndham Virginia Beach,3.0,Virginia Beach,VA,us,74.69
+The Atrium Resort by VSA Resorts,3.5,Virginia Beach,VA,us,80.1
+Best Western Plus Sandcastle Beachfront Hotel,2.5,Virginia Beach,VA,us,72.25
+"Country Inn & Suites by Radisson, Virginia Beach (Oceanfront), VA",3.0,Virginia Beach,VA,us,78.8
+Holiday Inn Raleigh Downtown - Capital,3.0,Raleigh,NC,us,94.07
+Red Roof Inn PLUS+ Raleigh NCSU - Convention Center,2.5,Raleigh,NC,us,52.49
+The Longleaf Hotel,2.5,Raleigh,NC,us,124.0
+"Origin Raleigh, a Wyndham Hotel",3.5,Raleigh,NC,us,149.0
+La Quinta Inn & Suites by Wyndham Raleigh Downtown North,2.5,Raleigh,NC,us,80.1
+"Hampton Inn & Suites Raleigh Midtown, NC",2.5,Raleigh,NC,us,105.4
+Sheraton Raleigh Hotel,3.5,Raleigh,NC,us,112.2
+Super 8 by Wyndham Raleigh Downtown,2.0,Raleigh,NC,us,64.0
